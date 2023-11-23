@@ -1,0 +1,2 @@
+spark.executor.memoru=4G
+spark.executots=8
